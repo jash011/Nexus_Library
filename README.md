@@ -33,6 +33,7 @@ you can install it after python installation with
 
 ```bash
 pip install rich
+```
 
 ### Steps to Run the Project:
 
@@ -40,3 +41,4 @@ pip install rich
 git clone https://github.com/jash011/nexus-library-management.git
 cd nexus-library-management
 py main.py
+```
