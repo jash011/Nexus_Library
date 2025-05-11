@@ -35,6 +35,7 @@ you can install it after python installation with
 
 ### Steps to Run the Project:
 
-> git clone https://github.com/jash011/nexus-library-management.git
-> cd nexus-library-management
-> py main.py
+```bash
+git clone https://github.com/jash011/nexus-library-management.git
+cd nexus-library-management
+py main.py
