@@ -31,7 +31,8 @@ and Rich installed
 
 you can install it after python installation with
 
-> pip install rich
+```bash
+pip install rich
 
 ### Steps to Run the Project:
 
